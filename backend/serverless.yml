@@ -1,0 +1,7 @@
+app: packnfnd
+component: express
+name: backend
+
+inputs:
+  src: ./
+  region: ca-central-1
